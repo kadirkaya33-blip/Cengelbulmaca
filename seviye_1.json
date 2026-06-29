@@ -1,0 +1,73 @@
+{
+  "level": 1,
+  "difficulty": "Easy",
+  "gridSize": {
+    "rows": 10,
+    "cols": 10
+  },
+  "celebrity": {
+    "name": "Barış Manço",
+    "image_filename": "baris_manco.png",
+    "start_row": 3,
+    "start_col": 2,
+    "size": 2
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "Giyside boyun kısmı",
+      "direction": "right",
+      "row": 0,
+      "col": 0,
+      "answer": "YAKA"
+    },
+    {
+      "id": 2,
+      "text": "Azerbaycan'ın başkenti",
+      "direction": "right",
+      "row": 1,
+      "col": 5,
+      "answer": "BAKÜ"
+    },
+    {
+      "id": 3,
+      "text": "Resimdeki ünlü kimdir?",
+      "direction": "right",
+      "row": 3,
+      "col": 4,
+      "answer": "BARIŞ"
+    },
+    {
+      "id": 4,
+      "text": "Tuzlanıp kurutulmuş yiyecek",
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "answer": "KAK"
+    },
+    {
+      "id": 5,
+      "text": "Büyük ve korunaklı yapı, hisar",
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "ALE"
+    },
+    {
+      "id": 6,
+      "text": "Önemli olayları hatırlatan yapı",
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "NIT"
+    },
+    {
+      "id": 7,
+      "text": "Yarışlarda bitiş çizgisi",
+      "direction": "right",
+      "row": 8,
+      "col": 4,
+      "answer": "FINAL"
+    }
+  ]
+}
